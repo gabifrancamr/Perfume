@@ -28,7 +28,7 @@ main{
 
 .esquerda{
     width: 50%;
-    background-image: url(image-product-desktop.jpg);
+    background-image: url("image-product-desktop.jpg");
     background-position: center;
     background-size: cover;
     border-top-left-radius: 10px;
